@@ -6,5 +6,6 @@ Implented PYthon code from Scratch and Plotted Graphs  Between Active Cases, Pos
 Checked which state has more  Positive Cases, Active Cases and Deaths 
 
 For More Details:
-Visualization Using Tableau Public link :https://public.tableau.com/app/profile/vangepurapu.honey/viz/Covid-19AnalysisInindia/Covid19Analysis
+Visualization Using Tableau Public 
+link :https://public.tableau.com/app/profile/vangepurapu.honey/viz/Covid-19AnalysisInindia/Covid19Analysis
 ![covid pic](https://user-images.githubusercontent.com/84119791/184503931-9af38b88-02b1-4d76-bd9c-788e4cf52be4.jpg)
