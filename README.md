@@ -1,4 +1,4 @@
-# Covid-19-Analysis-in-india
+# Covid-19-Analysis-in-india During 1st And 2nd Waves 
 
 Analysis of Covid-19 Active Cases, Positive Cases, Death Cases During 1st wave,2nd Wave and Vaccination Details in each States in India
 Implented PYthon code from Scratch and Plotted Graphs  Between Active Cases, Positive Cases and Death Cases
